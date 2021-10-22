@@ -1,5 +1,5 @@
 # BasicRedis
-A Redis  operation library written in .Net.
+A Redis  operation library written in .NET netstandard. You can use it in .net core \ .NET 5 \ .Net Framework 4.x \ xamarin ...
 
 How to use:
 
