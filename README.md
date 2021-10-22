@@ -18,4 +18,3 @@ client.Auth("xxxxxx")
 Dim re = client.HashGetAll("xxxxx")
 ...
 ```
-return dictionary、list and so on.
